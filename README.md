@@ -1,4 +1,4 @@
-# PropertyAnalysis
+# Property Analysis
 ## Introduction
 
 This is an end to end data analysis project of New South Wales properties. This projects helps to analyze and derive property values of different 
@@ -15,6 +15,8 @@ The datasets were cleaned and standardised using excel and  power query editor.
 Here we have created the star schema modelling using Kimball Methodology. 
 We have created Propety Value as fact table which is surrounded by other dimensional tables.
 
+![](DataModelling.PNG)
+-----------
 ## Data Visualization
 
 ------
